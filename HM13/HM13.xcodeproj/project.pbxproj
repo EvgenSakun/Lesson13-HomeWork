@@ -13,6 +13,7 @@
 		0428CBB22B4C7C1400A36FF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0428CBB02B4C7C1400A36FF0 /* Main.storyboard */; };
 		0428CBB42B4C7C1600A36FF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0428CBB32B4C7C1600A36FF0 /* Assets.xcassets */; };
 		0428CBB72B4C7C1600A36FF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0428CBB52B4C7C1600A36FF0 /* LaunchScreen.storyboard */; };
+		0428CBBF2B4C7C8100A36FF0 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0428CBBE2B4C7C8100A36FF0 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0428CBB32B4C7C1600A36FF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0428CBB62B4C7C1600A36FF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0428CBB82B4C7C1600A36FF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0428CBBE2B4C7C8100A36FF0 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				0428CBAA2B4C7C1400A36FF0 /* AppDelegate.swift */,
 				0428CBAC2B4C7C1400A36FF0 /* SceneDelegate.swift */,
+				0428CBBE2B4C7C8100A36FF0 /* Model.swift */,
 				0428CBAE2B4C7C1400A36FF0 /* ViewController.swift */,
 				0428CBB02B4C7C1400A36FF0 /* Main.storyboard */,
 				0428CBB32B4C7C1600A36FF0 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				0428CBAF2B4C7C1400A36FF0 /* ViewController.swift in Sources */,
 				0428CBAB2B4C7C1400A36FF0 /* AppDelegate.swift in Sources */,
 				0428CBAD2B4C7C1400A36FF0 /* SceneDelegate.swift in Sources */,
+				0428CBBF2B4C7C8100A36FF0 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
